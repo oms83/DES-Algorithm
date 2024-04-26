@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\DES\bin\Debug\DES.exe.config
+C:\Users\omerm\Desktop\DES\bin\Debug\DES.exe
+C:\Users\omerm\Desktop\DES\bin\Debug\DES.pdb
+C:\Users\omerm\Desktop\DES\obj\Debug\DES.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\DES\obj\Debug\DES.exe
+C:\Users\omerm\Desktop\DES\obj\Debug\DES.pdb
